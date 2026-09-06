@@ -44,29 +44,25 @@ aryam_project2/
 
 
 -----
-# 🧩 Used Widgets 
+## Used Widgets (17)
 
-| # | Widget |
-| :---: | :--- |
-| 1 | `Scaffold` |
-| 2 | `AppBar` |
-| 3 | `Container` |
-| 4 | `SafeArea` |
-| 5 | `Padding` |
-| 6 | `Column` |
-| 7 | `Row` |
-| 8 | `SizedBox` |
-| 9 | `Text` |
-| 10 | `ElevatedButton` |
-| 11 | `IconButton` |
-| 12 | `Icon` |
-| 13 | `Image` |
-| 14 | `Card` |
-| 15 | `GestureDetector` |
-| 16 | `FutureBuilder` |
-| 17 | `GridView` |
-
-
+1. Scaffold
+2. AppBar
+3. Container
+4. SafeArea
+5. Padding
+6. Column
+7. Row
+8. SizedBox
+9. Text
+10. ElevatedButton
+11. IconButton
+12. Icon
+13. Image
+14. Card
+15. GestureDetector
+16. FutureBuilder
+17. GridView
 
 
 
