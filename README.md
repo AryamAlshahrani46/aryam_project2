@@ -70,21 +70,23 @@ aryam_project2/
 ## Screenshots
 
 ### Splash Screen
+
 <img width="251" height="303" alt="Screenshot 2026-09-06 164950" src="https://github.com/user-attachments/assets/ad26de94-513b-41f6-b855-6a8fb790537d" />
 
 
 ---
 
 ### List Screen
-![List Screen](رابط_الصورة_الثانية)
+
+<img width="251" height="301" alt="Screenshot 2026-09-06 165041" src="https://github.com/user-attachments/assets/3c89235c-20a3-4aaa-b508-d1355919a166" />
 
 ---
 
 ### Meals Screen
-![Meals Screen](رابط_الصورة_الثالثة)
+<img width="251" height="304" alt="Screenshot 2026-09-06 165125" src="https://github.com/user-attachments/assets/e376e29e-c548-47aa-b1b8-4dbc95719cf5" />
 
 ---
 
 ### About App Screen
-![About App Screen](رابط_الصورة_الرابعة)
+<img width="251" height="301" alt="Screenshot 2026-09-06 165207" src="https://github.com/user-attachments/assets/16c52bcc-0bba-4588-8b31-141d8729e510" />
 
