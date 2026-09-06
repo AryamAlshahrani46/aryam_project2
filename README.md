@@ -9,9 +9,9 @@
 >** "My Meals is a recipe discovery app designed to help users browse food categories and meal ideas effortlessly." **
 
 ---
-Key future :
+# Key future :
 
-**My Meals** is a recipe discovery app designed to help users browse food categories and meal ideas effortlessly.
+* **My Meals** is a recipe discovery app designed to help users browse food categories and meal ideas effortlessly.
 
 * **Browse Categories:** Fetch and view various food categories in real time via an API.
 * **Explore Recipes:** View category-specific meals organized in a dynamic grid layout.
@@ -43,8 +43,28 @@ aryam_project2/
     └── main.dart
 
 
+-----
+## 🧩 Used Widgets 
 
-
+| # | Widget |
+| :---: | :--- |
+| 1 | `Scaffold` |
+| 2 | `AppBar` |
+| 3 | `Container` |
+| 4 | `SafeArea` |
+| 5 | `Padding` |
+| 6 | `Column` |
+| 7 | `Row` |
+| 8 | `SizedBox` |
+| 9 | `Text` |
+| 10 | `ElevatedButton` |
+| 11 | `IconButton` |
+| 12 | `Icon` |
+| 13 | `Image` |
+| 14 | `Card` |
+| 15 | `GestureDetector` |
+| 16 | `FutureBuilder` |
+| 17 | `GridView` |
 
 
 
@@ -57,23 +77,23 @@ aryam_project2/
 --------------
 Splash Screen :
 
-<img width="495" height="651" alt="image" src="https://github.com/user-attachments/assets/a5babccc-1727-48b8-9156-3c37b77cce0c" />
+<img width="251" height="303" alt="Screenshot 2026-09-06 164950" src="https://github.com/user-attachments/assets/fd10281d-a7e7-4118-94d0-a523da1a1327" />
 
 -----------------------------------
 List Screen :
 
-
-<img width="253" height="329" alt="image" src="https://github.com/user-attachments/assets/102a08cc-df3b-4f73-9c0b-99882a0e3d6a" />
+<img width="251" height="301" alt="Screenshot 2026-09-06 165041" src="https://github.com/user-attachments/assets/818680f8-c785-470e-a5ec-d9af58b62738" />
 
 -----------------------------------
-Details Screen : 
+Details Screen :
 
 
-<img width="501" height="653" alt="image" src="https://github.com/user-attachments/assets/966a4118-4d05-4938-8cde-f5d166e2f3e2" />
+<img width="251" height="304" alt="Screenshot 2026-09-06 165125" src="https://github.com/user-attachments/assets/62757808-faf7-44bd-9578-a9f3d168ad51" />
 
 
 -----------------------------------
 About App Screen :
 
-<img width="494" height="571" alt="image" src="https://github.com/user-attachments/assets/ef6e19fa-c064-41d4-a12c-a9684279e751" />
 
+
+<img width="251" height="301" alt="Screenshot 2026-09-06 165207" src="https://github.com/user-attachments/assets/7dbde376-d5b4-421e-8479-16bbca9fb73c" />
