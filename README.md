@@ -40,8 +40,7 @@ aryam_project2/
     │   └── AboutApp_Screen.dart
     │
     └── main.dart
-
-
+```text
 -----
 ** Used Widgets :
 
