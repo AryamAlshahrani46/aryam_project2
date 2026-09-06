@@ -66,15 +66,12 @@ aryam_project2/
 
 
 
-
-( Photos )
-
 --------------
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](<img width="251" height="303" alt="Screenshot 2026-09-06 164950" src="https://github.com/user-attachments/assets/6a2f7183-a316-44f3-95e5-beb96c9db2d2" />
-)
+<img width="251" height="303" alt="Screenshot 2026-09-06 164950" src="https://github.com/user-attachments/assets/ad26de94-513b-41f6-b855-6a8fb790537d" />
+
 
 ---
 
