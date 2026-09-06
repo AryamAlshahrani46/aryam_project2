@@ -72,7 +72,7 @@ aryam_project2/
 
 --------------
 Splash Screen :
-![Splash Screen] (<img width="251" height="303" alt="Screenshot 2026-09-06 164950" src="https://github.com/user-attachments/assets/c03e2b37-1b17-4e59-bcd7-131c367e77ce" />)
+<img width="251" height="303" alt="Screenshot 2026-09-06 164950" src="https://github.com/user-attachments/assets/c03e2b37-1b17-4e59-bcd7-131c367e77ce" />
 
 -----------------------------------
 List Screen :
