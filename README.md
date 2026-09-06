@@ -44,7 +44,7 @@ aryam_project2/
 ```
 -----
 
-** Used Widgets :
+### Used Widgets :
 
 1. Scaffold
 2. AppBar
