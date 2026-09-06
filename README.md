@@ -43,7 +43,7 @@ aryam_project2/
 
 
 -----
-## Used Widgets 
+** Used Widgets :
 
 1. Scaffold
 2. AppBar
@@ -63,15 +63,13 @@ aryam_project2/
 16. FutureBuilder
 17. GridView
 
-
-
-
 --------------
 ## Screenshots
 
-### Splash Screen
+Splash Screen :
 
-<img width="169" height="200" alt="Screenshot 2026-09-06 173018" src="https://github.com/user-attachments/assets/f960062d-2970-4c3f-9f7b-ec18aee56fbe" />
+<img width="169" height="200" alt="Screenshot 2026-09-06 173018" src="https://github.com/user-attachments/assets/99edb4f1-e2b7-4652-9e18-6b6a04b380e5" />
+
 
 ---
 
