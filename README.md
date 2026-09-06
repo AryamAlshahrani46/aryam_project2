@@ -16,52 +16,8 @@
 * **Browse Categories:** Fetch and view various food categories in real time via an API.
 * **Explore Recipes:** View category-specific meals organized in a dynamic grid layout.
 * **Interactive UI:** Smooth splash navigation and an "About App" overview styled with custom fonts (`Amiri` & `Tajawal`) and a warm color scheme.
----
-## 📁 Project Structure
-```text
-aryam_project2/
-│
-├── assets/
-│   ├── Logo.png
-│   └── Splash Screen.jpg
-│
-└── lib/
-    ├── Models/
-    │   ├── Meal_Category.dart
-    │   └── Meals.dart
-    │
-    ├── Services/
-    │   └── Api.dart
-    │
-    ├── Screens/
-    │   ├── Splash_Screen.dart
-    │   ├── List_Screen.dart
-    │   ├── Meals_Screen.dart
-    │   └── AboutApp_Screen.dart
-    │
-    └── main.dart
-```text
------
-** Used Widgets :
 
-1. Scaffold
-2. AppBar
-3. Container
-4. SafeArea
-5. Padding
-6. Column
-7. Row
-8. SizedBox
-9. Text
-10. ElevatedButton
-11. IconButton
-12. Icon
-13. Image
-14. Card
-15. GestureDetector
-16. FutureBuilder
-17. GridView
-
+  
 --------------
 ## Screenshots
 
@@ -86,4 +42,50 @@ Splash Screen :
 ### About App Screen
 <img width="251" height="301" alt="Screenshot 2026-09-06 165207" src="https://github.com/user-attachments/assets/5a8dc2db-ccc6-4857-91ac-0f52596ef9df" />
 
+
+---
+## 📁 Project Structure
+```text
+aryam_project2/
+│
+├── assets/
+│   ├── Logo.png
+│   └── Splash Screen.jpg
+│
+└── lib/
+    ├── Models/
+    │   ├── Meal_Category.dart
+    │   └── Meals.dart
+    │
+    ├── Services/
+    │   └── Api.dart
+    │
+    ├── Screens/
+    │   ├── Splash_Screen.dart
+    │   ├── List_Screen.dart
+    │   ├── Meals_Screen.dart
+    │   └── AboutApp_Screen.dart
+    │
+    └── main.dart
+-----
+
+** Used Widgets :
+
+1. Scaffold
+2. AppBar
+3. Container
+4. SafeArea
+5. Padding
+6. Column
+7. Row
+8. SizedBox
+9. Text
+10. ElevatedButton
+11. IconButton
+12. Icon
+13. Image
+14. Card
+15. GestureDetector
+16. FutureBuilder
+17. GridView
 
