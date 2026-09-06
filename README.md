@@ -44,7 +44,7 @@ aryam_project2/
 
 
 -----
-## 🧩 Used Widgets 
+# 🧩 Used Widgets 
 
 | # | Widget |
 | :---: | :--- |
