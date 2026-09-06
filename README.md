@@ -18,7 +18,6 @@
 * **Interactive UI:** Smooth splash navigation and an "About App" overview styled with custom fonts (`Amiri` & `Tajawal`) and a warm color scheme.
 ---
 ## 📁 Project Structure
-```text
 aryam_project2/
 │
 ├── assets/
