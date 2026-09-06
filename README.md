@@ -18,9 +18,6 @@
 * **Interactive UI:** Smooth splash navigation and an "About App" overview styled with custom fonts (`Amiri` & `Tajawal`) and a warm color scheme.
 ---
 
-## 📁 Project Structure
-
-```text
 aryam_project2/
 │
 ├── assets/
@@ -29,7 +26,8 @@ aryam_project2/
 │
 └── lib/
     ├── Models/
-    │   └── Meal_Category.dart
+    │   ├── Meal_Category.dart
+    │   └── Meals.dart
     │
     ├── Services/
     │   └── Api.dart
