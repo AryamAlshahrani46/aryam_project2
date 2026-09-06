@@ -72,24 +72,19 @@ aryam_project2/
 
 --------------
 Splash Screen :
-
-<img width="251" height="303" alt="Screenshot 2026-09-06 164950" src="https://github.com/user-attachments/assets/fd10281d-a7e7-4118-94d0-a523da1a1327" />
+<img width="251" height="303" alt="Screenshot 2026-09-06 164950" src="https://github.com/user-attachments/assets/c03e2b37-1b17-4e59-bcd7-131c367e77ce" />
 
 -----------------------------------
 List Screen :
 
-<img width="251" height="301" alt="Screenshot 2026-09-06 165041" src="https://github.com/user-attachments/assets/818680f8-c785-470e-a5ec-d9af58b62738" />
+<img width="251" height="301" alt="Screenshot 2026-09-06 165041" src="https://github.com/user-attachments/assets/d04ec6b0-f12f-4e0f-98bf-bc6adf33f53b" />
 
 -----------------------------------
 Details Screen :
 
-
-<img width="251" height="304" alt="Screenshot 2026-09-06 165125" src="https://github.com/user-attachments/assets/62757808-faf7-44bd-9578-a9f3d168ad51" />
-
+<img width="251" height="304" alt="Screenshot 2026-09-06 165125" src="https://github.com/user-attachments/assets/169235da-7900-408e-9434-2e192cf7175c" />
 
 -----------------------------------
 About App Screen :
+<img width="251" height="301" alt="Screenshot 2026-09-06 165207" src="https://github.com/user-attachments/assets/a92c1a20-28a9-4247-96ab-4346a13e8c82" />
 
-
-
-<img width="251" height="301" alt="Screenshot 2026-09-06 165207" src="https://github.com/user-attachments/assets/7dbde376-d5b4-421e-8479-16bbca9fb73c" />
