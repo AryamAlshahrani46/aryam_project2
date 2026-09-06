@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Overview
->** "My Meals is a recipe discovery app designed to help users browse food categories and meal ideas effortlessly." **
+> "My Meals is a recipe discovery app designed to help users browse food categories and meal ideas effortlessly." 
 
 ---
 # Key future :
@@ -69,9 +69,7 @@ aryam_project2/
 ## Screenshots
 
 Splash Screen :
-
-<img width="169" height="200 alt="Screenshot 2026-09-06 173018" src="https://github.com/user-attachments/assets/99edb4f1-e2b7-4652-9e18-6b6a04b380e5" />
-
+<img width="169" height="200" alt="Screenshot 2026-09-06 173018" src="https://github.com/user-attachments/assets/65ce4ca1-74f1-414f-88a4-6f5018e88249" />
 
 ---
 
